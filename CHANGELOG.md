@@ -5,15 +5,25 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0] - 2023-01-23
+
+### Added
+
+- Dice Roller app which is one of the projects of [android-basics-compose-unit-2-pathway-2](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-2)
+
+### Changed
+
+- Change VCS directory path of Unit 01 > Pathway 03
+
 ## [1.0.0] - 2023-01-23
 
 ### Changed
 
+- The year of the date in CHANGELOG.
+
 - The versions of the CHANGELOG file based on [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 - The structure of the project.
-
-- The year of the date in CHANGELOG.
 
 ### Added
 
