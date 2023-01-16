@@ -12,3 +12,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - HappyBirthday app which is one of the projects of [android-basics-compose-unit-1-pathway-3](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-3)
 
 - ComposeArticle app which is one of the projects of [android-basics-compose-unit-1-pathway-3](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-3)
+
+- Task Manager app which is one of the projects of [android-basics-compose-unit-1-pathway-3](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-3)
