@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Cupcake Navigation app which is one of the projects of [android-basics-compose-unit-4-pathway-2](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-2)
 
+- Unit Test for Cupcake Navigation app which is one of the projects of [android-basics-compose-unit-4-pathway-2](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-2)
+
 ## [2.5.0] - 2023-01-26
 
 ### Added
