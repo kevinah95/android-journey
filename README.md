@@ -42,6 +42,9 @@ This is my android journey repository to track my android path in [Android Basic
 
 - [ ] [Unit 8: Compose with Views](https://developer.android.com/courses/android-basics-compose/unit-8)
 
+## Version
+
+0.0.0 <!--- {x-release-please-version} --->
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
