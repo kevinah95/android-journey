@@ -11,6 +11,47 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [3.0.0](https://github.com/kevinah95/android-journey/compare/v2.6.0...v3.0.0) (2023-08-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* Add release-type simple again
+* Remove release strategy to use generic
+
+### Features
+
+* Add Affirmation app ([b31bc25](https://github.com/kevinah95/android-journey/commit/b31bc250e8d66a5d693b26fc55b49799cc5730c1))
+* Add Business Card app ([41e4a38](https://github.com/kevinah95/android-journey/commit/41e4a389893c168f99a6c53c741dc681cfba50e0))
+* Add Compose Article app ([f998528](https://github.com/kevinah95/android-journey/commit/f99852869ce1bb58c2d6b35bc936d92017eaee79))
+* Add Courses app ([658339b](https://github.com/kevinah95/android-journey/commit/658339b01f71c34e0a56ceefa81a41929ace1677))
+* Add Dessert and Unscramble apps ([c06449a](https://github.com/kevinah95/android-journey/commit/c06449a246484e381dfe56e73e08ab86e6afbeb8))
+* Add Dice Roller app ([0fdef86](https://github.com/kevinah95/android-journey/commit/0fdef865bf70da91d05ca9fa4d12b3cebf332df2))
+* Add Generics, Objects and extensions example ([6b6edf3](https://github.com/kevinah95/android-journey/commit/6b6edf33b61472b04d6b3fdd91c6f2e8a1dc51a3))
+* Add Happy Birthday app ([95d5574](https://github.com/kevinah95/android-journey/commit/95d5574c414b21ab47bc7d8e9e0a3d9698f92c0a))
+* Add Lemonade and TipTime apps ([9f4162e](https://github.com/kevinah95/android-journey/commit/9f4162e4720f111deb4819e33c85f943278f2f1b))
+* Add onXClicked actions and NavHostController ([738edc2](https://github.com/kevinah95/android-journey/commit/738edc268ae48cd6735b97e73232f145890eaf85))
+* Add Quadrant app ([5c32648](https://github.com/kevinah95/android-journey/commit/5c32648a81d5ff78d17b7ebf4ae08b060c90088d))
+* Add starter code for Unit 4 Pathway 2 ([c5c7d15](https://github.com/kevinah95/android-journey/commit/c5c7d15efcd2676ff4841c7b9656cf6ce03a3ac5))
+* Add Task Manager app ([20720b0](https://github.com/kevinah95/android-journey/commit/20720b0cd77d7bd182ff9393ffe23fa2a34a9de9))
+* Add Woof app ([ce0d89d](https://github.com/kevinah95/android-journey/commit/ce0d89dd675573a7f90133273072ad549698d521))
+* App solution. ([738edc2](https://github.com/kevinah95/android-journey/commit/738edc268ae48cd6735b97e73232f145890eaf85))
+* Update Affirmation app icons ([f162f05](https://github.com/kevinah95/android-journey/commit/f162f057b134e2c8febd8fa439b1836bd4e296c3))
+
+
+### Bug Fixes
+
+* Add release-type simple again ([110bd45](https://github.com/kevinah95/android-journey/commit/110bd45643c74c02530e17975395733587f9be64))
+* Change VCS path of Unit 01 ([8d388ab](https://github.com/kevinah95/android-journey/commit/8d388ab59870b3a8b99196c2f8115285744fb632))
+* Change version comment in README.md ([e854993](https://github.com/kevinah95/android-journey/commit/e8549931b6d7adf8905c18a112b1238c721ef536))
+* Remove release strategy to use generic ([ef9c1b4](https://github.com/kevinah95/android-journey/commit/ef9c1b4e082c835e6583c629b245b79e4a30ade4))
+
+
+### Miscellaneous Chores
+
+* **main:** release 2.7.0 ([a506f4b](https://github.com/kevinah95/android-journey/commit/a506f4b37b6e03a56d40aa1bfda51ef055a9eab2))
+* release 2.7.0 ([f919d3c](https://github.com/kevinah95/android-journey/commit/f919d3c5e53c890c10ef8bbc6af618b1fbf36978))
+
 ## 2.6.0 (2023-01-31)
 
 
