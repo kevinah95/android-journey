@@ -34,14 +34,6 @@ This is my android journey repository to track my android path in [Android Basic
     - [x] Dessert Clicker app.
     - [ ] Unscramble app.
 
-- [ ] [Unit 5: Connect to the internet](https://developer.android.com/courses/android-basics-compose/unit-5)
-
-- [ ] [Unit 6: Data persistence](https://developer.android.com/courses/android-basics-compose/unit-6)
-
-- [ ] [Unit 7: WorkManager](https://developer.android.com/courses/android-basics-compose/unit-7)
-
-- [ ] [Unit 8: Compose with Views](https://developer.android.com/courses/android-basics-compose/unit-8)
-
 ## Version
 
 3.0.1 <!-- {x-release-please-version} -->
