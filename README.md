@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://choosealicense.com/licenses/apache-2.0/)
+
 # Android journey
 
 This is my android journey repository to track my android path in [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) course.
