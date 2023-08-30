@@ -29,7 +29,7 @@ This is my android journey repository to track my android path in [Android Basic
     - [ ] Superheroes app.
     - [ ] 30 Days app.
 
-- [ ] [Unit 4: Navigation and app architecture](https://developer.android.com/courses/android-basics-compose/unit-4)
+- [~] [Unit 4: Navigation and app architecture](https://developer.android.com/courses/android-basics-compose/unit-4)
   - [x] [Pathway 1: Architecture Components](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-1)
     - [x] Dessert Clicker app.
     - [ ] Unscramble app.
