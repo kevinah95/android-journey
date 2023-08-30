@@ -52,6 +52,8 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
+The release process follows the [release-please action](https://github.com/google-github-actions/release-please-action).
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
