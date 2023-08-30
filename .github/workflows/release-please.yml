@@ -15,9 +15,6 @@ jobs:
     steps:
       - uses: google-github-actions/release-please-action@v3
         with:
-          release-type: simple
-          package-name: android-journey
-          bump-minor-pre-major: false
-          bump-patch-for-minor-pre-major: false
-          extra-files: |
-            README.md
+          command: manifest
+      - run: echo "A release was created."
+        if: ${{ steps.release.outputs.releases_created }}
