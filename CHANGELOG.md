@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [3.1.0](https://github.com/kevinah95/android-journey/compare/v3.0.1...v3.1.0) (2023-08-30)
+
+
+### Features
+
+* Move the journey to TODO.md ([09eba3a](https://github.com/kevinah95/android-journey/commit/09eba3a07207dd8fe15932bdd8b45d46f6ba169b))
+
 ## [3.0.1](https://github.com/kevinah95/android-journey/compare/v3.0.0...v3.0.1) (2023-08-30)
 
 
