@@ -48,4 +48,4 @@ The release process follows the [release-please action](https://github.com/googl
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[Apache Version 2.0](https://choosealicense.com/licenses/apache-2.0/)
