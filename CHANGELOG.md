@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [3.0.1](https://github.com/kevinah95/android-journey/compare/v3.0.0...v3.0.1) (2023-08-30)
+
+
+### Bug Fixes
+
+* Change Unit 4 in README.md ([ba6512f](https://github.com/kevinah95/android-journey/commit/ba6512f34cee0fc0cdf061a69564d7662b5af408))
+
 ## [3.0.0](https://github.com/kevinah95/android-journey/compare/v2.6.0...v3.0.0) (2023-08-29)
 
 
