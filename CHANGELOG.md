@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [4.0.1](https://github.com/kevinah95/android-journey/compare/v4.0.0...v4.0.1) (2023-08-31)
+
+
+### Bug Fixes
+
+* Add id to echo final step in action ([2c4734d](https://github.com/kevinah95/android-journey/commit/2c4734d5a11f5b2f3bbfe735bed271ca8827c07c))
+
 ## [4.0.0](https://github.com/kevinah95/android-journey/compare/v3.1.0...v4.0.0) (2023-08-30)
 
 
