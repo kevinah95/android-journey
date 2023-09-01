@@ -21,7 +21,7 @@ const config = {
   organizationName: 'kevinah95', // Usually your GitHub org/user name.
   projectName: 'android-journey', // Usually your repo name.
   deploymentBranch: 'gh-pages',
-  trailingSlash: false,
+  trailingSlash: true,
 
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
