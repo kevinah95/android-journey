@@ -20,8 +20,10 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'kevinah95', // Usually your GitHub org/user name.
   projectName: 'android-journey', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -69,7 +71,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
           {
             href: 'https://github.com/kevinah95/android-journey',
@@ -109,7 +111,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kevin Hernández. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
