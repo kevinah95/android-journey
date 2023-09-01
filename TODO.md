@@ -5,3 +5,5 @@
 - [ ] [Unit 7: WorkManager](https://developer.android.com/courses/android-basics-compose/unit-7)
 
 - [ ] [Unit 8: Compose with Views](https://developer.android.com/courses/android-basics-compose/unit-8)
+
+- [ ] Config workflow for docs
