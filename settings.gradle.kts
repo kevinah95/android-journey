@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "Android Journey"
 include(":unit01:pathway03:HappyBirthday")
 include(":unit01:pathway03:ComposeArticle")
+include(":unit01:pathway03:TaskManager")
