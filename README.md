@@ -8,7 +8,7 @@ This is my android journey repository to track my android path in [Android Basic
 
 - [x] [Unit 1: Your first Android app](https://developer.android.com/courses/android-basics-compose/unit-1)
   - [x] [Pathway 3: Build a basic layout](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-3)
-    - [x] HappyBirthday app.
+    - [x] HappyBirthday app. (Module)
     - [x] ComposeArticle app.
     - [x] Task Manager app
     - [x] Quadrant app.
@@ -51,7 +51,7 @@ The release process follows the [release-please action](https://github.com/googl
 ## License
 
 ```
-Copyright 2023 Kevin Hernández
+Copyright 2023 Kevin A. Hernández Rostrán
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
