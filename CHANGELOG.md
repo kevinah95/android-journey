@@ -11,6 +11,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.0.0](https://github.com/kevinah95/android-journey/compare/v4.0.1...v5.0.0) (2024-11-04)
+
+
+### ⚠ BREAKING CHANGES
+
+* :sparkles: Restart My Android Journey
+
+### Features
+
+* :sparkles: Restart My Android Journey ([38d4bbf](https://github.com/kevinah95/android-journey/commit/38d4bbf21f2e0e683d1c77f12922edada151713d))
+
 ## [4.0.1](https://github.com/kevinah95/android-journey/compare/v4.0.0...v4.0.1) (2023-08-31)
 
 
