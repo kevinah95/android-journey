@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.2.0](https://github.com/kevinah95/android-journey/compare/v5.1.0...v5.2.0) (2024-11-04)
+
+
+### Features
+
+* :sparkles: Add ComposeArticle module with initial setup and resources ([38af87e](https://github.com/kevinah95/android-journey/commit/38af87e30e1cad78c71f2f144f121f853f1f2264))
+
 ## [5.1.0](https://github.com/kevinah95/android-journey/compare/v5.0.0...v5.1.0) (2024-11-04)
 
 
