@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.1.0](https://github.com/kevinah95/android-journey/compare/v5.0.0...v5.1.0) (2024-11-04)
+
+
+### Features
+
+* :sparkles: Add image greeting to MainActivity and update strings ([6b8f6fe](https://github.com/kevinah95/android-journey/commit/6b8f6fe154fda93ef076f913c5c9a39d4acca02e))
+
 ## [5.0.0](https://github.com/kevinah95/android-journey/compare/v4.0.1...v5.0.0) (2024-11-04)
 
 
