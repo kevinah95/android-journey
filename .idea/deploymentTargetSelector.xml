@@ -11,6 +11,9 @@
       <SelectionState runConfigName="unit01.pathway03.TaskManager">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
+      <SelectionState runConfigName="unit01.pathway03.ComposeQuadrant">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
     </selectionStates>
   </component>
 </project>
