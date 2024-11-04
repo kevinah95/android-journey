@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.3.0](https://github.com/kevinah95/android-journey/compare/v5.2.0...v5.3.0) (2024-11-04)
+
+
+### Features
+
+* Add Task Manager module ([cfa3599](https://github.com/kevinah95/android-journey/commit/cfa35997fdc8b2da222a44a673fa35218e21abc0))
+
 ## [5.2.0](https://github.com/kevinah95/android-journey/compare/v5.1.0...v5.2.0) (2024-11-04)
 
 
