@@ -11,6 +11,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.4.0](https://github.com/kevinah95/android-journey/compare/v5.3.0...v5.4.0) (2024-11-05)
+
+
+### Features
+
+* :sparkles: Add BusinessCard module with initial resources and configurations ([b890919](https://github.com/kevinah95/android-journey/commit/b890919d7f5437e32f7ff6c5fcb9d2a69c6b563a))
+* :sparkles: Add ComposeQuadrant module with initial setup and resources ([f8c8bb6](https://github.com/kevinah95/android-journey/commit/f8c8bb647ece39e51470d08f5441377e27db2b15))
+
 ## [5.3.0](https://github.com/kevinah95/android-journey/compare/v5.2.0...v5.3.0) (2024-11-04)
 
 
