@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.6.0](https://github.com/kevinah95/android-journey/compare/v5.5.0...v5.6.0) (2024-11-08)
+
+
+### Features
+
+* :sparkles: Add Lemonade module with initial resources and configurations ([b8c8195](https://github.com/kevinah95/android-journey/commit/b8c81959223cd9d8fd5a23faa11efcaa9bb62c7b))
+
 ## [5.5.0](https://github.com/kevinah95/android-journey/compare/v5.4.0...v5.5.0) (2024-11-08)
 
 
