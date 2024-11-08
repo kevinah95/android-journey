@@ -38,7 +38,7 @@ This is my android journey repository to track my android path in [Android Basic
 
 ## Version
 
-5.4.0 <!-- {x-release-please-version} -->
+5.5.0 <!-- {x-release-please-version} -->
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first

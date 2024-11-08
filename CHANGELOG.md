@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.5.0](https://github.com/kevinah95/android-journey/compare/v5.4.0...v5.5.0) (2024-11-08)
+
+
+### Features
+
+* :sparkles: Add DiceRoller module with initial resources and configurations ([e7cd962](https://github.com/kevinah95/android-journey/commit/e7cd962c19ede06bdd0d0afb413d70eec6eeb713))
+
 ## [5.4.0](https://github.com/kevinah95/android-journey/compare/v5.3.0...v5.4.0) (2024-11-05)
 
 
