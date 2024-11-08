@@ -20,6 +20,12 @@
       <SelectionState runConfigName="unit02.pathway02">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
+      <SelectionState runConfigName="unit02.pathway02.DiceRoller">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="unit02.pathway02.Lemonade">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
     </selectionStates>
   </component>
 </project>
