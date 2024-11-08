@@ -17,6 +17,9 @@
             <option value="$PROJECT_DIR$/unit01/pathway03/ComposeQuadrant" />
             <option value="$PROJECT_DIR$/unit01/pathway03/HappyBirthday" />
             <option value="$PROJECT_DIR$/unit01/pathway03/TaskManager" />
+            <option value="$PROJECT_DIR$/unit02" />
+            <option value="$PROJECT_DIR$/unit02/pathway02" />
+            <option value="$PROJECT_DIR$/unit02/pathway02/DiceRoller" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />

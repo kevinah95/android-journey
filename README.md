@@ -8,7 +8,7 @@ This is my android journey repository to track my android path in [Android Basic
 
 - [x] [Unit 1: Your first Android app](https://developer.android.com/courses/android-basics-compose/unit-1)
   - [x] [Pathway 3: Build a basic layout](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-3)
-    - [x] HappyBirthday app. (Module)
+    - [x] HappyBirthday app.
     - [x] ComposeArticle app.
     - [x] Task Manager app
     - [x] Quadrant app.
