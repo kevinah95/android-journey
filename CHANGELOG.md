@@ -11,6 +11,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.7.0](https://github.com/kevinah95/android-journey/compare/v5.6.0...v5.7.0) (2024-11-09)
+
+
+### Features
+
+* :sparkles: Add TipTime module and reorganize project structure ([edce19e](https://github.com/kevinah95/android-journey/commit/edce19e7b9b550f50cf0e5627239a175aa8900b1))
+* :sparkles: Enhance TipTime module with tip percentage input and rounding option ([647e144](https://github.com/kevinah95/android-journey/commit/647e144e4ab341494a15b80361f1a6f7f0e675c8))
+
 ## [5.6.0](https://github.com/kevinah95/android-journey/compare/v5.5.0...v5.6.0) (2024-11-08)
 
 
