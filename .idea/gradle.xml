@@ -21,6 +21,8 @@
             <option value="$PROJECT_DIR$/unit02/pathway02" />
             <option value="$PROJECT_DIR$/unit02/pathway02/DiceRoller" />
             <option value="$PROJECT_DIR$/unit02/pathway02/Lemonade" />
+            <option value="$PROJECT_DIR$/unit02/pathway03" />
+            <option value="$PROJECT_DIR$/unit02/pathway03/TipTime" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
