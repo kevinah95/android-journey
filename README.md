@@ -19,6 +19,7 @@ This is my android journey repository to track my android path in [Android Basic
     - [x] Lemonade app.
   - [x] [Pathway 3: Interacting with UI and state](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-3)
     - [x] TipTime app.
+    - [ ] Create Art Space app.
 
 - [ ] [Unit 3: Display lists and use Material Design](https://developer.android.com/courses/android-basics-compose/unit-3)
   - [x] [Pathway 1: More Kotlin fundamentals](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-1)
