@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.8.0](https://github.com/kevinah95/android-journey/compare/v5.7.0...v5.8.0) (2024-11-10)
+
+
+### Features
+
+* :sparkles: Add UI and unit tests for TipTime module functionality ([58f82af](https://github.com/kevinah95/android-journey/commit/58f82affbdb31bbc58358868e5334c76e3532ee8))
+
 ## [5.7.0](https://github.com/kevinah95/android-journey/compare/v5.6.0...v5.7.0) (2024-11-09)
 
 
