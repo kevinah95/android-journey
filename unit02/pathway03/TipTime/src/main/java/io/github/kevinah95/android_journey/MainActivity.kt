@@ -41,6 +41,7 @@ import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import io.github.kevinah95.android_journey.ui.theme.AndroidJourneyTheme
+import org.jetbrains.annotations.VisibleForTesting
 import java.text.NumberFormat
 
 class MainActivity : ComponentActivity() {
@@ -167,7 +168,8 @@ fun EditNumberField(
  * according to the local currency.
  * Example would be "$10.00".
  */
-private fun calculateTip(
+@VisibleForTesting
+internal fun calculateTip(
     amount: Double,
     tipPercent: Double = 15.0,
     roundUp: Boolean
