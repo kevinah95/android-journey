@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.10.0](https://github.com/kevinah95/android-journey/compare/v5.9.0...v5.10.0) (2025-03-28)
+
+
+### Features
+
+* :sparkles: Add ArtSpace module with UI components and image resources ([242217e](https://github.com/kevinah95/android-journey/commit/242217e6e064e626647cca9c1126067dbae1d715))
+
 ## [5.9.0](https://github.com/kevinah95/android-journey/compare/v5.8.0...v5.9.0) (2025-03-28)
 
 
