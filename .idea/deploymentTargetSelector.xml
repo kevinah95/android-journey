@@ -26,13 +26,13 @@
       <SelectionState runConfigName="unit02.pathway03.TipTime">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="unit02.pathway.ArtSpace">
-        <option name="selectionMode" value="DROPDOWN" />
-      </SelectionState>
       <SelectionState runConfigName="MainActivity (1)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
       <SelectionState runConfigName="MainActivity">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="unit02.pathway03.ArtSpace">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>

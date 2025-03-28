@@ -20,12 +20,13 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Android Journey"
+// Unit 01
 include(":unit01:pathway03:HappyBirthday")
 include(":unit01:pathway03:ComposeArticle")
 include(":unit01:pathway03:TaskManager")
 include(":unit01:pathway03:ComposeQuadrant")
 include(":unit01:pathway03:BusinessCard")
-include(":unit02:pathway02")
+// Unit 02
 include(":unit02:pathway02:DiceRoller")
 include(":unit02:pathway02:Lemonade")
 include(":unit02:pathway03:TipTime")
