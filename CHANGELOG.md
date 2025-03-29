@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.11.0](https://github.com/kevinah95/android-journey/compare/v5.10.0...v5.11.0) (2025-03-29)
+
+
+### Features
+
+* :sparkles: Add HappyBirthday instrumented test and update MainActivity with test tags ([6604f63](https://github.com/kevinah95/android-journey/commit/6604f6321cee5a43a1e13c1d4a639ffe309edcf0))
+
 ## [5.10.0](https://github.com/kevinah95/android-journey/compare/v5.9.0...v5.10.0) (2025-03-28)
 
 
