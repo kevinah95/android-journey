@@ -6,7 +6,7 @@
 [![GitHub release (with filter)](https://img.shields.io/github/v/release/kevinah95/android-journey)](https://github.com/kevinah95/android-journey/releases)
 [![1Password](https://img.shields.io/badge/1Password-294092?style=flat&logo=1password&logoColor=white)](https://1password.com/)
 [![Build Status](https://github.com/kevinah95/android-journey/actions/workflows/release-please.yml/badge.svg)](https://github.com/kevinah95/android-journey/actions)
-![Platform](https://img.shields.io/badge/platform-Android-green.svg)
+[![Platform Android](https://img.shields.io/badge/platform-Android-green.svg)](https://www.android.com)
 
 This is my android journey repository to track my android path in [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) course.
 
