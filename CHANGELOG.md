@@ -11,6 +11,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.12.0](https://github.com/kevinah95/android-journey/compare/v5.11.0...v5.12.0) (2025-03-29)
+
+
+### Features
+
+* :sparkles: Update release workflow to load secrets and enhance release-please configuration ([058b48f](https://github.com/kevinah95/android-journey/commit/058b48f9437fbf24d92991e7992b096656a7b909))
+
+
+### Bug Fixes
+
+* :bug: Update release workflow to use environment variable for RELEASE_PLEASE_TOKEN ([b9bc1ea](https://github.com/kevinah95/android-journey/commit/b9bc1ea59da039b23165d2e80d37ebef6e0a23b1))
+
 ## [5.11.0](https://github.com/kevinah95/android-journey/compare/v5.10.0...v5.11.0) (2025-03-29)
 
 
