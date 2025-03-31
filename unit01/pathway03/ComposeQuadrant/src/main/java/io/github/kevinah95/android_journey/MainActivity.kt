@@ -32,11 +32,10 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             AndroidJourneyTheme {
-                Surface(
+                Scaffold(
                     modifier = Modifier.fillMaxSize(),
-                    color = MaterialTheme.colorScheme.background
-                ) {
-                    ComposeQuadrantApp()
+                ) { innerPadding ->
+                    ComposeQuadrantApp(Modifier.padding(innerPadding))
                 }
             }
         }
@@ -44,8 +43,8 @@ class MainActivity : ComponentActivity() {
 }
 
 @Composable
-fun ComposeQuadrantApp() {
-    Column (modifier = Modifier.fillMaxSize()) {
+fun ComposeQuadrantApp(modifier: Modifier = Modifier) {
+    Column (modifier = modifier.fillMaxSize()) {
         Row(modifier = Modifier.weight(1f)) {
             ComposeSingleQuadrant(
                 stringResource(R.string.first_title),
