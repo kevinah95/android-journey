@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.12.1](https://github.com/kevinah95/android-journey/compare/v5.12.0...v5.12.1) (2025-03-31)
+
+
+### Bug Fixes
+
+* :bug: Adjust padding and alignment in GreetingText for improved layout ([bf22cdd](https://github.com/kevinah95/android-journey/commit/bf22cddfc1776ac791bb00773bb2441b5579be8f))
+
 ## [5.12.0](https://github.com/kevinah95/android-journey/compare/v5.11.0...v5.12.0) (2025-03-29)
 
 
