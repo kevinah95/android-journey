@@ -77,14 +77,15 @@ fun GreetingText(message: String, from: String, modifier: Modifier = Modifier) {
             fontSize = 100.sp,
             lineHeight = 116.sp,
             textAlign = TextAlign.Center,
-            modifier = Modifier.testTag("greeting_text")
+            modifier = Modifier.padding(top = 16.dp).testTag("greeting_text")
         )
         Text(
             text = from,
             fontSize = 36.sp,
             modifier = Modifier
-                .padding(16.dp)
-                .align(alignment = Alignment.CenterHorizontally)
+                .padding(top = 16.dp)
+                .padding(end = 16.dp)
+                .align(alignment = Alignment.End)
                 .testTag("sender_text")
         )
     }
