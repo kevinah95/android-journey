@@ -13,18 +13,10 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - name: Load secret
-        id: op-load-secret
-        uses: 1password/load-secrets-action@v2
-        with:
-          export-env: true
-        env:
-          OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_SERVICE_ACCOUNT_TOKEN }}
-          RELEASE_PLEASE_TOKEN: op://Development/RELEASE_PLEASE_PAT/token
       - uses: googleapis/release-please-action@v4
         id: release
         with:
-          token: ${{ env.RELEASE_PLEASE_TOKEN }}
+          token: ${{ secrets.RELEASE_PLEASE_TOKEN }}
           config-file: release-please-config.json
           manifest-file: .release-please-manifest.json
       - run: echo "A release was created."
