@@ -2,7 +2,6 @@
 # Android journey
 
 [![Made in Costa Rica](https://img.shields.io/badge/Made%20in-%20Costa%20Rica-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb25zLWNyIiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+CiAgPGcgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2Utd2lkdGg9IjFwdCI+CiAgICA8cGF0aCBmaWxsPSIjMDAwMGI0IiBkPSJNMCAwaDY0MHY0ODBIMHoiLz4KICAgIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDc1LjRoNjQwdjMyMi4zSDB6Ii8+CiAgICA8cGF0aCBmaWxsPSIjZDkwMDAwIiBkPSJNMCAxNTcuN2g2NDB2MTU3LjdIMHoiLz4KICA8L2c+Cjwvc3ZnPgo=)](https://es.wikipedia.org/wiki/Costa_Rica)
-[![1Password](https://img.shields.io/badge/1Password-294092?style=flat&logo=1password&logoColor=white)](https://1password.com/)
 [![Build Status: Release Please](https://img.shields.io/github/actions/workflow/status/kevinah95/android-journey/release-please.yml?logo=github&label=Release%20Please)](https://github.com/kevinah95/android-journey/actions)
 [![GitHub release (with filter)](https://img.shields.io/github/v/release/kevinah95/android-journey?label=Release)](https://github.com/kevinah95/android-journey/releases)
 [![Kotlin Version](https://img.shields.io/badge/Kotlin-2.1.0-blue.svg?logo=kotlin)](https://kotlinlang.org/) <!-- gradle/libs.versions.toml -->
