@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.13.0](https://github.com/kevinah95/android-journey/compare/v5.12.1...v5.13.0) (2025-05-10)
+
+
+### Features
+
+* :sparkles: Testing CI ([e08914d](https://github.com/kevinah95/android-journey/commit/e08914da408ae755274b4e60929babac5bee1fa6))
+
 ## [5.12.1](https://github.com/kevinah95/android-journey/compare/v5.12.0...v5.12.1) (2025-03-31)
 
 
