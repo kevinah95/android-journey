@@ -28,6 +28,16 @@ This is my android journey repository to track my android path in [Android Basic
   - [x] [Pathway 3: Interacting with UI and state](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-3)
     - [x] TipTime app.
     - [ ] Create Art Space app.
+- [ ] [Unit 3: Display lists and use Material Design](https://developer.android.com/courses/android-basics-compose/unit-3)
+  - [x] [Pathway 1: More Kotlin fundamentals](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-1)
+    - [x] Generics-Objects-Extensions.kt.
+  - [ ] [Pathway 2: Build a scrollable list](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-2)
+    - [x] Affirmations app.
+    - [ ] Courses app.
+  - [ ] [Pathway 3: Build beautiful apps](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-3)
+    - [ ] Woof app.
+    - [ ] Superheroes app.
+    - [ ] 30 Days app.
 
 ## Version
 
