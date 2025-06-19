@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.14.0](https://github.com/kevinah95/android-journey/compare/v5.13.0...v5.14.0) (2025-06-19)
+
+
+### Features
+
+* :sparkles: Add AffirmationsApp module with initial implementation ([4768f03](https://github.com/kevinah95/android-journey/commit/4768f03e86e6c0d05fbdc9c50b8d1f7444b3070c))
+
 ## [5.13.0](https://github.com/kevinah95/android-journey/compare/v5.12.1...v5.13.0) (2025-05-10)
 
 
