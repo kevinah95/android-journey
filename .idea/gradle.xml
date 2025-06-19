@@ -6,7 +6,7 @@
       <GradleProjectSettings>
         <option name="testRunner" value="CHOOSE_PER_TEST" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="gradleJvm" value="temurin-23" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -26,7 +26,6 @@
             <option value="$PROJECT_DIR$/unit02/pathway03/TipTime" />
           </set>
         </option>
-        <option name="resolveExternalAnnotations" value="false" />
       </GradleProjectSettings>
     </option>
     <option name="parallelModelFetch" value="true" />
