@@ -34,4 +34,4 @@ include(":unit02:pathway03:ArtSpace")
 // Unit 03
 include(":unit03:pathway02:AffirmationsApp")
 // Unit 04
-include(":unit04:pathway01")
+include(":unit04:pathway01:DessertClicker")
