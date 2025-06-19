@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.15.1](https://github.com/kevinah95/android-journey/compare/v5.15.0...v5.15.1) (2025-06-19)
+
+
+### Bug Fixes
+
+* :truck: move Unit 04 app to its corresponding folder ([5bb175e](https://github.com/kevinah95/android-journey/commit/5bb175e98aeb40a53cccdb6af58cd3f8594ae592))
+
 ## [5.15.0](https://github.com/kevinah95/android-journey/compare/v5.14.0...v5.15.0) (2025-06-19)
 
 
