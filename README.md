@@ -5,7 +5,7 @@
 [![Build Status: Release Please](https://img.shields.io/github/actions/workflow/status/kevinah95/android-journey/release-please.yml?logo=github&label=Release%20Please)](https://github.com/kevinah95/android-journey/actions)
 [![GitHub release (with filter)](https://img.shields.io/github/v/release/kevinah95/android-journey?label=Release)](https://github.com/kevinah95/android-journey/releases)
 [![Kotlin Version](https://img.shields.io/badge/Kotlin-2.1.0-blue.svg?logo=kotlin)](https://kotlinlang.org/) <!-- gradle/libs.versions.toml -->
-[![Gradle Version](https://img.shields.io/badge/Gradle-8.11.1-blue?logo=gradle)](https://gradle.org/) <!-- gradle/wrapper/gradle-wrapper.properties -->
+[![Gradle Version](https://img.shields.io/badge/Gradle-8.14.2-blue?logo=gradle)](https://gradle.org/) <!-- gradle/wrapper/gradle-wrapper.properties -->
 [![Android Studio](https://img.shields.io/badge/Android%20Studio%20Meerkat-2024.3.2-blue.svg?logo=android)](https://developer.android.com/studio/releases) <!-- Android Studio -> About Android Studio -->
 [![Taskfile Version](https://img.shields.io/badge/Taskfile-v3-blue?logo=task)](https://taskfile.dev/changelog) <!-- Taskfile -->
 [![GitHub license](https://img.shields.io/github/license/kevinah95/android-journey?color=blue&logo=apache&label=License)](LICENSE)
