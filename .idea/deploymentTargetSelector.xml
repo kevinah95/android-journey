@@ -38,7 +38,7 @@
       <SelectionState runConfigName="unit03.pathway02.AffirmationsApp">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="unit04.pathway01">
+      <SelectionState runConfigName="unit04.pathway01.DessertClicker">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
