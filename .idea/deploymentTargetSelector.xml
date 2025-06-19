@@ -38,6 +38,9 @@
       <SelectionState runConfigName="unit03.pathway02.AffirmationsApp">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
+      <SelectionState runConfigName="unit04.pathway01">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
     </selectionStates>
   </component>
 </project>
