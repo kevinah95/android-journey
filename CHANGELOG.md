@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.15.0](https://github.com/kevinah95/android-journey/compare/v5.14.0...v5.15.0) (2025-06-19)
+
+
+### Features
+
+* :sparkles: add drawable resources and application configuration for Dessert Clicker ([1663349](https://github.com/kevinah95/android-journey/commit/16633492219f992f6e7bee707ef2f3edc7208130))
+
 ## [5.14.0](https://github.com/kevinah95/android-journey/compare/v5.13.0...v5.14.0) (2025-06-19)
 
 
