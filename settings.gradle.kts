@@ -31,3 +31,5 @@ include(":unit02:pathway02:DiceRoller")
 include(":unit02:pathway02:Lemonade")
 include(":unit02:pathway03:TipTime")
 include(":unit02:pathway03:ArtSpace")
+// Unit 03
+include(":unit03:pathway02:AffirmationsApp")

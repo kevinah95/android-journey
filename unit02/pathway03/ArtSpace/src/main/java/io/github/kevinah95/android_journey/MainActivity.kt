@@ -98,17 +98,21 @@ fun ArtworkDescriptor(modifier: Modifier = Modifier) {
             .border(width = 1.dp, color = Color.Red, shape = RoundedCornerShape(1.dp))
             .fillMaxWidth()
     ) {
-        Column {
+        Column(
+            horizontalAlignment = Alignment.CenterHorizontally,
+            modifier = Modifier
+                .fillMaxWidth()
+        ) {
             Text(
-                text = "Title",
+                text = "Artwork Title",
                 fontWeight = FontWeight.Bold,
                 fontSize = 40.sp,
                 modifier = Modifier
                     .border(width = 1.dp, color = Color.Blue, shape = RoundedCornerShape(1.dp))
             )
             Text(
-                text = "Description",
-                fontSize = 40.sp,
+                text = "Artwork artist (Year)",
+                fontSize = 20.sp,
                 modifier = Modifier
                     .border(width = 1.dp, color = Color.Blue, shape = RoundedCornerShape(1.dp))
             )
