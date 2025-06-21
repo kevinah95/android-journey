@@ -41,6 +41,9 @@
       <SelectionState runConfigName="unit04.pathway01.DessertClicker">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
+      <SelectionState runConfigName="unit04.pathway01.Unscramble">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
     </selectionStates>
   </component>
 </project>

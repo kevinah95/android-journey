@@ -41,7 +41,7 @@ This is my android journey repository to track my android path in [Android Basic
 - [ ] [Unit 4: Navigation and app architecture](https://developer.android.com/courses/android-basics-compose/unit-4)
   - [ ] [Pathway 1: Architecture Components](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-1)
     - [x] Dessert Clicker app.
-    - [ ] Unscramble app.
+    - [x] Unscramble app.
 
 ## Version
 
