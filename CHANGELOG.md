@@ -11,6 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Example
 
+## [5.16.0](https://github.com/kevinah95/android-journey/compare/v5.15.1...v5.16.0) (2025-06-21)
+
+
+### Features
+
+* :sparkles: add Unscramble game to unit04 pathway 01 ([8729576](https://github.com/kevinah95/android-journey/commit/87295769f5348fc215e92df9cdd39a723edf32f9))
+
 ## [5.15.1](https://github.com/kevinah95/android-journey/compare/v5.15.0...v5.15.1) (2025-06-19)
 
 
